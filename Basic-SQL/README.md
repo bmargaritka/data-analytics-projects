@@ -1,0 +1,2 @@
+# basic-SQL
+SQL projects
